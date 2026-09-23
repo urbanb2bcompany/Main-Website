@@ -1,0 +1,11 @@
+{
+  "/icon.png/route": "/icon.png",
+  "/sitemap.xml/route": "/sitemap.xml",
+  "/robots.txt/route": "/robots.txt",
+  "/_not-found/page": "/_not-found",
+  "/contact/page": "/contact",
+  "/services/page": "/services",
+  "/page": "/",
+  "/case-studies/page": "/case-studies",
+  "/about/page": "/about"
+}
